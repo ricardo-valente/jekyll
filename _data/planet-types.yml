@@ -1,0 +1,11 @@
+- title: Dwarf
+  folder: dwarf
+  content: 'A **dwarf planet** is planetary-mass object that is...'
+
+- title: Terrestrial
+  folder: terrestrial
+  content: 'A **terrestrial planet** is planetary-mass object that is...'
+
+- title: Gas Giant
+  folder: gas-giant
+  content: 'A **gas-giant planet** is planetary-mass object that is...'
