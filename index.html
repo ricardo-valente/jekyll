@@ -10,7 +10,7 @@ layout: default
 <ul>
 	{% for news in site.categories.recently-discovered limit:2 %}
 		<li>
-			<a href="">{{news.title}}</a>
+			<a href="{{site.baseurl}}{{news.url}}">{{news.title}}</a>
 			<p>{{news.meta}}</p>
 		</li>
 	{% endfor %}
